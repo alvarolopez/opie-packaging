@@ -1,10 +1,10 @@
 CHANGES
 =======
 
-0.0.1
------
+12.0.0
+------
 
-* update requirements.txt
+* Update requirements.txt
 * doc: fix documentation configuration
 * update from global requirements
 * gitbook: add required files
