@@ -1,0 +1,6 @@
+[nova.api.v21.extensions]
+preemptible = opie.api.openstack.compute.preemptible_instances:Preemptible
+
+[nova.api.v21.extensions.server.create]
+preemptible = opie.api.openstack.compute.preemptible_instances:Preemptible
+

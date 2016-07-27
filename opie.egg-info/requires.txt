@@ -1,0 +1,5 @@
+pbr>=1.6
+WebOb>=1.2.3
+oslo.config>=2.3.0
+oslo.log>=1.8.0
+oslo.utils!=2.6.0,>=2.0.0

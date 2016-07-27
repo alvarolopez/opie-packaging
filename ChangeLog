@@ -1,0 +1,39 @@
+CHANGES
+=======
+
+0.0.1
+-----
+
+* update requirements.txt
+* doc: fix documentation configuration
+* update from global requirements
+* gitbook: add required files
+* docs: move from RST to markdown
+* fix github url, pointing to indigo-dc repo
+* update all .rst files
+* weights: add preemptible weighers
+* Raise the proper exception if there are no preemptible instances
+* Use a safer method for accesing instance_properties
+* Do not access overcommit flags via CONF object
+* unit tests for the opie FilterScheduler
+* HostStatePartial: fix internal attributes
+* HostManager: fix partial and normal states usage and calculation
+* unit tests for the opie HostManager and HostStatePartial classes
+* Update copyright notices, adding INDIGO-Datacloud
+* Remove not supported Python versions
+* api: add unit testing
+* tests: remove tests.base module
+* Py3: do not run all tests in Python 3
+* tests: fix coverage tests
+* api: raise HTTP NotImplemented instead of returning empty
+* Add configuration for oslo_config_generator
+* Update tox.ini with upstream changes
+* Update requirements and test-requirements
+* Introduce a preemptible instances filter scheduler
+* Create a HostStatePartial and a new HostManager classes
+* Adapt code to the Liberty release
+* Move modules to our namespace
+* Initial spot API extension implementation
+* fix W291 error from cookiecutter
+* tox: update configuration file
+* Initial commit from cookiecutter
