@@ -1,0 +1,11 @@
+Document: opie-doc
+Title: opie (OpenStack Preemptible Instnaces Extension) Documentation
+Author: Alvaro Lopez Garcia
+Abstract: Sphinx documentation for opie
+Section: Network/File Transfer
+
+Format: HTML
+Index: /usr/share/doc/opie-doc/html/index.html
+Files: /usr/share/doc/opie-doc/html/*
+
+
